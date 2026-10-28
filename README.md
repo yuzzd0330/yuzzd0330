@@ -15,3 +15,15 @@
 
 ### Explore my work
 🌐 [Visit my portfolio](https://yuzzd0330.github.io/)
+
+<details>
+<summary>🗝️ Open my little cabinet of curiosities</summary>
+
+### A few things that make me pause and look closer…
+
+💎 **Mineral specimens** — colours, textures and tiny natural structures  
+⚙️ **Metal models** — the pleasure of building something piece by piece  
+🎼 **Classical music** — especially Bach  
+📚 **Art & philosophy** — questions worth sitting with  
+
+</details>
