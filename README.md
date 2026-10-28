@@ -1,4 +1,4 @@
-![YuZzD_](冰蓝蝶影与银色机巧.png)
+![Blue watercolor banner](profile-banner.png)
 
 # Hi, I'm YuZzD_ 👋
 
