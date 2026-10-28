@@ -23,9 +23,9 @@
 
 ### A few things that make me pause and look closer…
 
-💎 **Mineral specimens** — colours, textures and tiny natural structures  
-⚙️ **Metal models** — the pleasure of building something piece by piece  
-🎼 **Classical music** — especially Bach  
-📚 **Art & philosophy** — questions worth sitting with  
+- **Minerals** — Blue-toned gibbsite and cyanotrichite, alongside garden-like gypsum formations.
+- **Metal models** — Intricate Piececool palaces, pavilions and traditional Chinese lanterns.
+- **Music** — Bach, piano and symphonies; learning the violin is a wish for the future.
+- **Art & philosophy** — How structure becomes beauty, and how perception becomes understanding.
 
 </details>
