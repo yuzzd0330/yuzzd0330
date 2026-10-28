@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm YuZzD_ 👋
 
-<!--
-**yuzzd0330/yuzzd0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Accounting · Data · Curiosity
 
-Here are some ideas to get you started:
+### About me
+🎓 MSc student in Accounting & Financial Analytics at NUS  
+🔎 Interested in financial analysis, accounting research and the stories behind numbers  
+🛠️ Exploring data with Python, Excel and SQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Beyond the numbers
+🎼 Classical music  
+💎 Mineral specimens  
+⚙️ Intricate metal models  
+📚 Art, philosophy and writing  
+
+### Explore my work
+🌐 [Visit my portfolio](https://yuzzd0330.github.io/)
